@@ -2,7 +2,6 @@
 node_modules
 coverage
 test/fixtures/output.js*
-client/*.js
 coverage.lcov
 *.log
 logs
